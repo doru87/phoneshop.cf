@@ -1,0 +1,48 @@
+body {
+
+  background-color: rgb(237, 237, 237);
+
+}
+
+.img-container {
+  position: relative;
+  cursor: pointer;
+  width: 250px;
+  height: 300px;
+  margin: 0 auto;
+
+}
+.store-img {
+  margin-top: 20px;
+}
+img {
+  height: auto;
+  margin: 0 auto;
+
+  max-width: 250px; 
+  max-height: 300px;
+}
+.store-img {
+  transition: all 1s ease-in-out;
+
+}
+.img-container:hover .store-img {
+  transform: scale(1.1);
+}
+
+.store-item-value {
+  color: --mainYellow;
+}
+
+.search-box {
+  background: rgb(62, 66, 64);
+  color: rgb(252, 255, 253);
+}
+.card {
+  border: 2px solid rgba(0,0,0,.125);
+  border-radius: 1rem;
+}
+.card-body {
+  background-color:rgb(182, 187, 196);
+
+}

@@ -1,0 +1,98 @@
+{
+
+    "telefoane": {
+        "Samsung A7":[
+            {"store_item":"Samsung Galaxy A7",
+             "data_item": "samsung",
+             "img": "telefon-mobil-apple-iphone-6s.jpg",
+             "store_item_name": "Samsung",
+             "store_item_value": 1200,
+             "store_item_content": "Android OS",
+             "ram_memory": "4 GB"
+            }
+
+        ],
+        "Apple 6s":[
+            {"store_item":"Apple iPhone 6s",
+            "data_item": "apple",
+            "img": "telefon-mobil-samsung-galaxy-a7.jpg",
+            "store_item_name": "Apple",
+            "store_item_value": 1500,
+            "store_item_content": "iOS",
+            "ram_memory": "2 GB"
+            }
+        ],
+        "Samsung Note 9":[
+            {"store_item":"Samsung Galaxy Note 9",
+            "data_item": "samsung",
+            "img": "telefon-mobil-samsung-galaxy-note-9.jpg",
+            "store_item_name": "Samsung",
+            "store_item_value": 3500,
+            "store_item_content": "Android OS",
+            "ram_memory": "6 GB"
+            }    
+        ],
+        "Huawei P30 Pro":[
+            {"store_item":"Huawei P30 Pro Aurora",
+            "data_item": "huawei",
+            "img": "telefon-mobil-huawei-p30-pro.jpg",
+            "store_item_name": "Huawei",
+            "store_item_value": 4400,
+            "store_item_content": "Android OS",
+            "ram_memory": "8 GB"
+            }    
+        ],
+        "Apple 7":[
+            {"store_item":"Apple iPhone 7",
+            "data_item": "apple",
+            "img": "telefon-mobil-apple-iphone-7.jpg",
+            "store_item_name": "Apple",
+            "store_item_value": 2200,
+            "store_item_content": "iOS",
+            "ram_memory": "2 GB"
+            }    
+        ],
+        "Samsung Galaxy S8":[
+            {"store_item":"Samsung Galaxy S8",
+            "data_item": "samsung",
+            "img": "telefon-mobil-samsung-galaxy-s8.jpg",
+            "store_item_name": "Samsung",
+            "store_item_value": 2500,
+            "store_item_content": "Android OS",
+            "ram_memory": "4 GB"
+            }    
+        ],
+        "Huawei Mate 20 Pro":[
+            {"store_item":"Huawei Mate 20 Pro",
+            "data_item": "huawei",
+            "img": "telefon-mobil-huawei-mate-20.jpg",
+            "store_item_name": "Huawei",
+            "store_item_value": 4000,
+            "store_item_content": "Android OS",
+            "ram_memory": "6 GB"
+            }    
+        ],
+        "Xiaomi Mi A2":[
+            {"store_item":"Xiaomi Mi A2",
+            "data_item": "xiaomi",
+            "img": "telefon-mobil-xiaomi-mi-a2.jpg",
+            "store_item_name": "Xiaomi",
+            "store_item_value": 900,
+            "store_item_content": "Android OS",
+            "ram_memory": "4 GB"
+            }    
+        ],
+        "Xiaomi Redmi Note 5":[
+            {"store_item":" Xiaomi Redmi Note 5",
+            "data_item": "xiaomi",
+            "img": "telefon-mobil-xiaomi-redmi-note-5.jpg",
+            "store_item_name": "Xiaomi",
+            "store_item_value": 840,
+            "store_item_content": "Android OS",
+            "ram_memory": "3 GB"
+            }    
+        ]
+        
+    }
+  
+}
